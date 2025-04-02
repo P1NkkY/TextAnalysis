@@ -1,2 +1,2 @@
 # TextAnalysis
-Counting the occurrences of each character in a string
+Counting words, spaces, symbols, the occurrences of each character in a string
